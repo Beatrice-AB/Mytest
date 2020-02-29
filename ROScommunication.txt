@@ -1,0 +1,1 @@
+Pour que ROS fonctionne sur deux ordinateurs, on doit d'abord les connecter sur le même réseau WIFI. Il faut aussi connaitre leurs adresses IP. L'un des ordinateurs sera considéré comme "le maître" et l'autre comme "l'esclave".La communication ne sera possible qu'à partir du moment où la configuration sera terminée et le maitre pourra envoyer des messages à son esclave.

@@ -1,0 +1,4 @@
+<launch>
+	<node name="serveur" pkg="class_6" type="hour_server" />
+	<node name="client" pkg="class_6" type="hour_client.py" output="screen"/>
+</launch>
